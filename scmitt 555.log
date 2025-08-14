@@ -1,0 +1,15 @@
+LTspice 24.1.0 for Windows
+Circuit: C:\Users\amanr\OneDrive\Pictures\Desktop\LTSpice_2A\scmitt 555.net
+Start Time: Sun Apr 27 00:20:48 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.190 seconds.
+
+Files loaded:
+C:\Users\amanr\OneDrive\Pictures\Desktop\LTSpice_2A\scmitt 555.net
+C:\Users\amanr\AppData\Local\LTspice\lib\sub\NE555.sub
+
